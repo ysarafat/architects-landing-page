@@ -480,6 +480,9 @@ footer p {
         align-items: center;
         justify-content: center;
     }
+    .update-form input {
+  width: 200px;
+    }
 
 }
 
